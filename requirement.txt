@@ -1,0 +1,13 @@
+name: env
+channels:
+  - Microsoft
+  - defaults
+dependencies:
+  - anaconda
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.11.9
+  - cpuonly
+  - pytorch
+prefix: C:\Users\Louis\.conda\envs\env
