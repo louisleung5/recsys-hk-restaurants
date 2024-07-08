@@ -1,6 +1,4 @@
-# recsys-hk-restaurants
-
-## Recommendation System using Matrix Factorization in PyTorch
+# Recommendation System using Matrix Factorization in PyTorch
 
 ### Project Overview
 This project implements a recommendation system using the matrix factorization technique. The machine learning model is built using the PyTorch library and is trained on a dataset containing ratings of restaurants given by customers in Hong Kong.
