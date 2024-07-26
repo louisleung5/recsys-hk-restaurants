@@ -12,7 +12,7 @@ This project implements a recommendation system using the matrix factorization t
 To use this recommendation system, follow these steps:
 
 1. Clone the repository to your local machine:
-`git clone https://github.com/your-username/your-repo-name.git`
+`git clone https://github.com/louisleung5/recsys-hk-restaurants.git`
 
 2. Install the required dependencies, including PyTorch and any other necessary libraries:
 `pip install -r requirements.txt`
