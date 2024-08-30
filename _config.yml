@@ -1,4 +1,4 @@
 title: Recommendation System for Food Delivery
 description: This page is to showcase my machine learning project on building a recommendation system for food delivery.
 show_downloads: true
-remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-midnight
