@@ -1,4 +1,6 @@
-# Introduction
+# Rcommendation System for Food Delivery
+
+## Introduction
 
 In this project, we will take a look at a dataset of client reviews of restaurants in Hong Kong. It contains the the reviewers' rating to restaurants (referred to as stores in the data). Subsequently, we will build a recommendation system using matrix factorization method. In particular, we will training a model with PyTorch based on the existing reviewer's rating to each store and break down into reviewer embeddings and store embeddings, containing latent factors for each reviewer/store. Hopefully, these embeddings are able to capture the hidden pattern/features of the reviewer/store, which can be used to predict the reviewer's rating towards a restuarant that currently has no rating from the same reviewer. 
 
